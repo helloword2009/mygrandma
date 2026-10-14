@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Deployment metadata and local browser verification artifacts
+.vercel/
+playwright-report/
+test-results/
+artifacts/
